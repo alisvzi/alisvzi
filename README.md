@@ -4,6 +4,6 @@
 
 <h2 align="left">Contact with me</h2>
 
-<a href="#"> <img style="width: 28px; margin-right: 5px;  "  src = "https://github.com/alisvzi/alisvzi/blob/main/img/t.gif?raw=true"> </a>
-<a href="#"> <img style="width: 28px; margin-right: 5px"  src = "https://github.com/alisvzi/alisvzi/blob/main/img/icons8-instagram-48.png?raw=true"> </a>
-<a href="#"> <img style="width: 28px"  src = "https://github.com/alisvzi/alisvzi/blob/main/img/l.gif?raw=true"> </a>
+<a href="#"> <img     src = "https://github.com/alisvzi/alisvzi/blob/main/img/t.gif?raw=true"> </a>
+<a href="#"> <img  src = "https://github.com/alisvzi/alisvzi/blob/main/img/icons8-instagram-48.png?raw=true"> </a>
+<a href="#"> <img  src = "https://github.com/alisvzi/alisvzi/blob/main/img/icons8-linkedin-circled-48.png?raw=true"> </a>
