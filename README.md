@@ -4,6 +4,6 @@
 
 <h2 align="left">Contact with me</h2>
 
-<a href="#" style="display: flex; text-decoration: none; color: rgb(107, 69, 69); align-items: center; justify-content: space-between;"> <img style="width: 28px;"  src = "https://github.com/alisvzi/alisvzi/blob/main/img/t.gif?raw=true"> Telegram </a>
-<a href="#" style="display: flex; text-decoration: none; color: rgb(107, 69, 69); align-items: center; justify-content: space-between;"> <img style="width: 28px"  src = "https://github.com/alisvzi/alisvzi/blob/main/img/i.gif?raw=true"> Instagram </a>
-<a href="#" style="display: flex; text-decoration: none; color: rgb(107, 69, 69); align-items: center; justify-content: space-between;"> <img style="width: 28px"  src = "https://github.com/alisvzi/alisvzi/blob/main/img/l.gif?raw=true"> Linkdin </a>
+<a href="#" style="display: flex; text-decoration: none;  align-items: center; justify-content: space-between;"> <img style="width: 28px;"  src = "https://github.com/alisvzi/alisvzi/blob/main/img/t.gif?raw=true"> Telegram </a>
+<a href="#" style="display: flex; text-decoration: none;  align-items: center; justify-content: space-between;"> <img style="width: 28px"  src = "https://github.com/alisvzi/alisvzi/blob/main/img/i.gif?raw=true"> Instagram </a>
+<a href="#" style="display: flex; text-decoration: none;  align-items: center; justify-content: space-between;"> <img style="width: 28px"  src = "https://github.com/alisvzi/alisvzi/blob/main/img/l.gif?raw=true"> Linkdin </a>
